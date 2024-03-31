@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<meta charset ut>
+
+
+
+<html>
+<head>
+  
+    <title>Mon Site Web</title>
+</head>
+<body>
+<body>
+
+    <h1>Mon Site Web</h1>
+    <nav></nav>
+    <section><h2>Section 1</h2><p>Contenu de la section 1.</p></section>
+    <section><h2>Section 2</h2><p>Contenu de la section 2.</p></section>
+    <footer><p>&copy; 2023 Mon Site Web.</p></footer>
+</body>
+</html>
